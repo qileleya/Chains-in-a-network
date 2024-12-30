@@ -1,7 +1,7 @@
 The project consists of both code and sample data
 
 ## Project Structure 
-project-root/
+project-root/n
 ├── Code/
 │ ├── DFS_BFS_code/
 │ │ ├── DFS_BFS_Traversal_example.py
